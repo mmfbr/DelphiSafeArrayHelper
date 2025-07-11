@@ -26,7 +26,7 @@ Trabalhar com SafeArrays em Delphi pode ser complexo e propenso a erros. Esta bi
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/DelphiSafeArrayHelper.git
+git clone https://github.com/mmfbr/DelphiSafeArrayHelper.git
 ```
 
 2. Adicione o caminho da pasta `src` ao Library Path do seu projeto
@@ -178,6 +178,6 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 ## 📞 Contato
 
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter)
+Seu Nome - [@mmfbr77](https://twitter.com/mmfbr77)
 
-Link do Projeto: [https://github.com/seu-usuario/DelphiSafeArrayHelper](https://github.com/seu-usuario/DelphiSafeArrayHelper)
+Link do Projeto: [https://github.com/mmfbr/DelphiSafeArrayHelper](https://github.com/mmfbr/DelphiSafeArrayHelper)
